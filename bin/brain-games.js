@@ -1,3 +1,4 @@
 #!/usr/bin/node node
+import app from "../src/cli.js";
 
-console.log(`Welcome to the Brain Games!`);
+app();
